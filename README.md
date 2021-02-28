@@ -4,7 +4,7 @@
 - Global: 1001
 - India: 155
 
-## Team:
+## Team - AishNahiHashKaro:
 - [Aditi Goyal](https://www.linkedin.com/in/aditi-goyal-8934641b4/)
 - [Rohan Baijal](https://github.com/rohanblueboybaijal)
 - [Sarthak Rout](https://github.com/SarthakRout)
